@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739648068627",
+    "project_id": "easy-learning-d8981",
+    "storage_bucket": "easy-learning-d8981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739648068627:android:3f3f01a576827c5e75f3e6",
+        "android_client_info": {
+          "package_name": "com.redcode.easylearning.easy_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739648068627-qsbvquug750hni3coq0qkghmnui67u88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA2yGH696o54C-fJ0HfugQoFfx4wsbZpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739648068627-qsbvquug750hni3coq0qkghmnui67u88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
